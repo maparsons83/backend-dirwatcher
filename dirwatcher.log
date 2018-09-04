@@ -1,0 +1,24 @@
+2018-09-04 15:46:16,921:INFO:Searching in test
+2018-09-04 15:46:16,921:INFO: magic.txt found in test
+2018-09-04 15:46:16,921:INFO:beetlejuice found at line 3 in magic.txt
+2018-09-04 15:46:16,921:INFO:beetlejuice found at line 5 in magic.txt
+2018-09-04 15:46:16,921:INFO:beetlejuice found at line 9 in magic.txt
+2018-09-04 15:46:16,922:INFO:beetlejuice found at line 10 in magic.txt
+2018-09-04 15:47:26,963:WARNING:Received signal: 2
+2018-09-04 15:47:26,968:INFO:Uptime: 70.0475809574 seconds
+2018-09-04 15:47:57,243:INFO:Searching in test
+2018-09-04 15:47:57,244:INFO: magic.txt found in test
+2018-09-04 15:47:57,244:INFO:beetlejuice found at line 3 in magic.txt
+2018-09-04 15:47:57,244:INFO:beetlejuice found at line 5 in magic.txt
+2018-09-04 15:47:57,244:INFO:beetlejuice found at line 9 in magic.txt
+2018-09-04 15:47:57,244:INFO:beetlejuice found at line 10 in magic.txt
+2018-09-04 15:48:51,992:WARNING:Received signal: 15
+2018-09-04 15:48:51,992:INFO:Uptime: 54.7494318485 seconds
+2018-09-04 15:50:34,631:INFO:Searching in test
+2018-09-04 15:50:34,632:INFO: magic.txt found in test
+2018-09-04 15:50:34,633:INFO:beetlejuice found at line 3 in magic.txt
+2018-09-04 15:50:34,633:INFO:beetlejuice found at line 5 in magic.txt
+2018-09-04 15:50:34,633:INFO:beetlejuice found at line 9 in magic.txt
+2018-09-04 15:50:34,633:INFO:beetlejuice found at line 10 in magic.txt
+2018-09-04 15:51:23,931:WARNING:Received signal: 2
+2018-09-04 15:51:23,931:INFO:Uptime: 49.3009250164 seconds
